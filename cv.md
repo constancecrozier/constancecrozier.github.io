@@ -1,8 +1,7 @@
 ---
-theme: jekyll-theme-minimal
 layout: page
-title: "CIRICULUM VITAE"
-permalink: /cv/
+title: Ciriculum Vitae
+permalink: /cv
 ---
 # constancecrozier.github.io
 my cv is here
