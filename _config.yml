@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Constance Crozier
 description: Welcome to my homepage
+
+layout: page
+title: "CIRICULUM VITAE"
+permalink: /cv/
