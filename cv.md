@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-minimal
 layout: page
 title: "CIRICULUM VITAE"
 permalink: /cv/
