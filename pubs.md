@@ -9,16 +9,16 @@ Please see a complete list of my publications below, sorted by year, with **open
 Author position is highlighted with **bold**, mentored students shown in *italics*.
 
 **2022**
-* *A. Pigott*, **C. Crozier**, K. Baker, Z. Nagy, GridLearn: multiagent reinforcement learning for grid-aware building energy management, Electric Power Systems Research [[Link](/files/gridlearn2022.pdf)][[Code](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0)]
-* ** C Crozier**, K. Baker, Data-driven probabilistic constraint elimination for accelerated optimal power flow, IEEE PES General Meeting [[Link](/files/gm2022.pdf)]
+* <span style="color:gray">**A. Pigot**</span>A. Pigott*, **C. Crozier**, K. Baker, Z. Nagy, GridLearn: multiagent reinforcement learning for grid-aware building energy management, *Electric Power Systems Research* [[Link](/files/gridlearn2022.pdf)][[Code](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0)]
+* **C Crozier**, K. Baker, Data-driven probabilistic constraint elimination for accelerated optimal power flow, IEEE PES General Meeting [[Link](/files/gm2022.pdf)]
 * **C. Crozier**, *A. Pigott*, K. Baker, Spatial arbitrage through bidirectional electric vehicle charging, IEEE PES General Meeting [[Link](/files/spatial2022.pdf)]
 * *M. Li*, *Y. Du*, J. Mohammadi, **C. Crozier**, K. Baker, Numerical comparisons of linear power flow approximations: optimality, feasibility, and computation time [[Link](/files/lpf2022.pdf)]
-* **C. Crozier**, K. Baker, Y. Du, M. Li, J. Mohammadi, Data driven methods for contingency filtering in security constrained optimal power flow, International Conference on Probabilistic Methods Applied to Power Systems [[Link](/files/pmaps.pdf)]
+* **C. Crozier**, K. Baker, Y. Du, M. Li, J. Mohammadi, Data driven methods for contingency filtering in security constrained optimal power flow, International Conference on Probabilistic Methods Applied to Power Systems [[Link](/files/pmaps2022.pdf)]
 * **C Crozier**, K. Baker, B. Toomey, Feasible region-based heuristics for optimal transmission switching, Sustainable Energy Grids and Networks, [[Link](/files/ots2022.pdf)]
 * **C. Crozier**, C. Quarton, N. Mansor, D. Pagnano, I. Llewellyn}, Modeling of the ability of a mixed renewable generation electricity system with storage to meet consumer demand, Electricity [[Link](/files/scores2022.pdf)][[Code](https://github.com/constancecrozier/SCORES)]
 
 **2021**
-* K. Collett, S. Hirmer, H. Dalkmann, **C. Crozier**, Y. Mulugetta, M. McCulloch}, Can electric vehicles be good for Sub-Saharan Africa?, Energy Strategy Review [[Link](/files/africa2021.pdf)]
+* K. Collett, S. Hirmer, H. Dalkmann, **C. Crozier**, Y. Mulugetta, M. McCulloch, Can electric vehicles be good for Sub-Saharan Africa?, *Energy Strategy Review* [[Link](/files/africa2021.pdf)]
 * **C. Crozier**, K. Baker, Optimal sizing of an energy storage portfolio considering multiple time-scales, IEEE PES General Meeting [[Link](/files/gm2021.pdf)]
 * **C. Crozier**, T. Morstyn, M. McCulloch, Capturing diversity in electric vehicle charging behaviour for network capacity estimation, Transportation Research Part D: Transport and Environment [[Link](/files/uncontrolled2021.pdf)]
 
