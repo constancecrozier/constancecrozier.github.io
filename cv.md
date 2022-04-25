@@ -28,9 +28,9 @@ Please see a summary of my experience and accomplishments below, you can also vi
 See a full list [here](/pubs/), or on my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
 <h2> Awards </h2>
-* **2021** Outstanding Postdoc Award, CU Boulder [Press release]
-* **2021** ARPA-E Grid Optimization Competition, Top 5 [Press release]
-* **2020** Winner of UK Power Networks Charge Challenge [Press release]
+* **2021** Outstanding Postdoc Award, CU Boulder [[Press release](https://www.colorado.edu/researchinnovation/2021/09/15/cu-boulder-postdocs-and-faculty-mentors-honored-during-national-postdoctoral-appreciation)]
+* **2021** ARPA-E Grid Optimization Competition, Top 5 [[Press release](https://arpa-e.energy.gov/news-and-media/blog-posts/announcing-grid-optimization-go-competition-challenge-2-winners)]
+* **2020** Winner of UK Power Networks Charge Challenge [[Press release](https://www.ukpowernetworks.co.uk/internet/en/news-and-press/press-releases/UK-Power-Networks-launches-EV-Charge-Challenge.html)]
 * **2017** Pest Presentation at MEEPS
 * **2015** Gibbs Prize for Best Part B Project, University of Oxford
 * **2014-2016** Academic Scholarship, University of Oxford  
