@@ -9,7 +9,7 @@ Please see a complete list of my publications below, sorted by year, with **open
 Author position is highlighted with **bold**, mentored students shown in *italics*.
 
 **2022**
-* <span style="color:gray">**A. Pigot**</span>A. Pigott*, **C. Crozier**, K. Baker, Z. Nagy, GridLearn: multiagent reinforcement learning for grid-aware building energy management, *Electric Power Systems Research* [[Link](/files/gridlearn2022.pdf)][[Code](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0)]
+* <span style="color:gray">**A. Pigot**</span>A. Pigott*, **C. Crozier**, K. Baker, Z. Nagy, [GridLearn: multiagent reinforcement learning for grid-aware building energy management](/files/gridlearn2022.pdf)), *Electric Power Systems Research* [[Link](/files/gridlearn2022.pdf)][[Code](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0)]
 * **C Crozier**, K. Baker, Data-driven probabilistic constraint elimination for accelerated optimal power flow, IEEE PES General Meeting [[Link](/files/gm2022.pdf)]
 * **C. Crozier**, *A. Pigott*, K. Baker, Spatial arbitrage through bidirectional electric vehicle charging, IEEE PES General Meeting [[Link](/files/spatial2022.pdf)]
 * *M. Li*, *Y. Du*, J. Mohammadi, **C. Crozier**, K. Baker, Numerical comparisons of linear power flow approximations: optimality, feasibility, and computation time [[Link](/files/lpf2022.pdf)]
