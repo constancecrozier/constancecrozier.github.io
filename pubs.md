@@ -13,7 +13,7 @@ Please see a complete list of my publications below, sorted by year, with **open
 * M. Li, Y. Du, J. Mohammadi, **C. Crozier**, K. Baker, [Numerical comparisons of linear power flow approximations: optimality, feasibility, and computation time](/files/lpf2022.pdf), *IEEE PES General Meeting*
 * **C. Crozier**, K. Baker, Y. Du, M. Li, J. Mohammadi, [Data driven methods for contingency filtering in security constrained optimal power flow](/files/pmaps2022.pdf), *International Conference on Probabilistic Methods Applied to Power Systems* 
 * **C Crozier**, K. Baker, B. Toomey, [Feasible region-based heuristics for optimal transmission switching](/files/ots2022.pdf), *Sustainable Energy Grids and Networks*
-* **C. Crozier**, C. Quarton, N. Mansor, D. Pagnano, I. Llewellyn}, [Modeling of the ability of a mixed renewable generation electricity system with storage to meet consumer demand](/files/scores2022.pdf), *Electricity* [[Code](https://github.com/constancecrozier/SCORES)]
+* **C. Crozier**, C. Quarton, N. Mansor, D. Pagnano, I. Llewellyn, [Modeling of the ability of a mixed renewable generation electricity system with storage to meet consumer demand](/files/scores2022.pdf), *Electricity* [[Code](https://github.com/constancecrozier/SCORES)]
 
 **2021**
 * K. Collett, S. Hirmer, H. Dalkmann, **C. Crozier**, Y. Mulugetta, M. McCulloch, [Can electric vehicles be good for Sub-Saharan Africa?](/files/africa2021.pdf), *Energy Strategy Review* 
@@ -36,4 +36,4 @@ Please see a complete list of my publications below, sorted by year, with **open
 * **C. Crozier**, D. Apostolopoulou, M. McCulloch, [Mitigating the impact of personal vehicle electrification: A power generation perspective](/files/policy2018.pdf), *Energy Policy*
 * J. Cao, **C. Crozier**, M. McCulloch, [Optimal design and operation of a low carbon community based multi-energy systems considering EV integration](/files/jun2018.pdf), *IEEE Transactions of Sustainable Energy*
 * **C. Crozier**, D. Apostolopoulou, M. McCulloch, [Numerical analysis of national travel data to assess the impact of UK fleet electrification](/files/pscc2018.pdf), *Power Systems Computation Conference*
-* **C. Crozier**, D. Apostolopoulou, M. McCulloch, [Clustering of usage profiles for electric vehicle behaviour analysis]/files/isgt2018.pdf), *Innovation in Smart Grid Technologies (ISGT) Europe*
+* **C. Crozier**, D. Apostolopoulou, M. McCulloch, [Clustering of usage profiles for electric vehicle behaviour analysis](/files/isgt2018.pdf), *Innovation in Smart Grid Technologies (ISGT) Europe*
