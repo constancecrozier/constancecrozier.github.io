@@ -1,5 +1,5 @@
 
-[Ciriculum Vitae]() [Publications]() [Open data & code]() [About]()
+<<[Ciriculum Vitae]()>>  <<[Publications]()>>  <<[Open data/code]()>>  <<[About]()>>
 
 <h2>News</h2>
 * **04/2022** Presented our work on the socio-economic impacts of electric vehicle adoption at 
