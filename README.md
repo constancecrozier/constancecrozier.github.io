@@ -1,7 +1,7 @@
 [![CV](/images/cv_button.png)
 ](https://example.com)
 
-<a href="https://example.com"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://example.com"><img src="/images/code_button.png" alt="drawing" height="40"/></a>
+<a href="https://example.com"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://example.com"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://example.com"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://example.com"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
 <<[<h1>Ciriculum Vitae</h1>]()>>  <<[Publications]()>>  <<[Open data/code]()>>  <<[About]()>>
 
 <h2>News</h2>
