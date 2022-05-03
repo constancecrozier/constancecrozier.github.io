@@ -9,7 +9,7 @@ Please see a summary of my experience and accomplishments below, you can also vi
 
 <h2> Education </h2>
 * **2016-2020** DPhil in Engineering Science, University of Oxford
-	* Thesis: The Impact of Domestic Electric Vehicles on Electricity Networks [[Link](https://ora.ox.ac.uk/objects/uuid:1cb55756-6cc6-45ea-aa6d-82a952ecaf7c/download_file?safe_filename=thesis_revised.pdf&type_of_work=Thesis)]
+	* Thesis: [The Impact of Domestic Electric Vehicles on Electricity Networks](https://ora.ox.ac.uk/objects/uuid:1cb55756-6cc6-45ea-aa6d-82a952ecaf7c/download_file?safe_filename=thesis_revised.pdf&type_of_work=Thesis)]
 	* Advisor: Malcolm McCulloch
 * **2012-2016** MEng in Engineering Science, University of Oxford 
 	* Thesis:
@@ -22,7 +22,7 @@ Please see a summary of my experience and accomplishments below, you can also vi
 
 <h2> Industry Experience </h2>
 * **2018-2022** Consultant Research Scientist, Various
-* **2019-2018** Technical Energy Specialist, UK Government (BEIS)
+* **2019-2020** Technical Energy Specialist, UK Government (BEIS)
 * **2018** Data Science Intern, Five AI
 
 <h2> Publications </h2>
