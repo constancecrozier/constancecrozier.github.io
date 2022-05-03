@@ -1,5 +1,7 @@
 [![CV](/images/cv_button.png)
 ](https://example.com)
+
+<a href="https://example.com"><img src="/images/cv_button.jpg" alt="drawing" width="100"/></a>
 <<[<h1>Ciriculum Vitae</h1>]()>>  <<[Publications]()>>  <<[Open data/code]()>>  <<[About]()>>
 
 <h2>News</h2>
