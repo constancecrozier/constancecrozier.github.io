@@ -20,12 +20,11 @@ Constance grew up in Lewisham, South East London - at almost exactly 0 degrees l
 
 <img src="/images/longs2021.jpg" alt="drawing" width="600"/>
 
-The homestretch of Longs Peak. Descending the summit at 14,000 ft altitude (trying not to think about how long it will take to get back to the car).
+The homestretch of Longs Peak. Descending the summit at 14,000 ft altitude (trying not to think about how far it was back to the car).
 
 <img src="/images/teton2021.jpg" alt="drawing" width="600"/>
-
 Grand Teton National Park in early May. It turns out that this is far too early in the year to visit, scrambled up the rocks because the trail was packed with several feet of snow. 
 
 <img src="/images/shelf2022.jpg" alt="drawing" width="300"/>
 
-Climbing in Shelf Road, Colorado's winter climbing destination. Demonstrating my strongest climbing talent: resting (i.e. stopping climbing). 
+Climbing in Shelf Road, one of Colorado's best winter climbing areas. Demonstrating my strongest climbing talent: resting.
