@@ -1,5 +1,6 @@
 <a href="https://constancecrozier.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
 
+Welcome to my personal website. My research concerns development of control strategies for distributed assets which take into account human behavior, or human-in-the-loop. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and am currently a postdoctoral researcher in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. I am currently on the academic job market.
 
 <h2>News</h2>
 * **04/2022** Presented our work on the socio-economic impacts of electric vehicle adoption at 
