@@ -13,7 +13,7 @@ She completed all of her degrees at the University of Oxford. Her PhD, in the [E
 
 <h2>Outreach</h2>
 I am very driven to reduce the socio-economic inequalities presently in academia. As an undergraduate I was the access and outreach representative of my college, and as a graduate student I volunteered at several outreach events. I am especially passionate about encouraging women and those from lower economic backgrounds into STEM.
-<img src="/images/openday.png" alt="drawing" width="300"/><img src="/images/uniq.png" alt="drawing" width="300"/>
+<img src="/images/openday.png" alt="drawing" width="250"/><img src="/images/uniq.png" alt="drawing" width="250"/>
 (L) Celebrating the end of an open day (R) UNIQ summer schools
 
 I believe that free online resources can help to reduce the barriers faced by students from less privileged backgrounds. I have a [science communication blog](https://constancecrozier.com/) and helped create a [video series](https://www.youtube.com/watch?v=DiJ1mvD0YRE) showing insight into the university admissions process.
