@@ -12,7 +12,7 @@ I have a  number of projects for which we are able to offer open-source code and
 
 This is a dataset of the hourly electricity demand in 2019 for 155 geographic regions across the world. It will be published on this website at the release of our article (currently in the later stages of peer review).
  
-<h2>GridLearn: </h2>
+<h2>GridLearn: Grid-aware Multi-Agent Reinforcement Learning</h2>
 *Primary developer: Aisling Pigott*
 
 This package adds functionality to the CityLearn package, which simulates a multi-agent reinforcement learning environment for demand response. Added features include: coupled pandapower grid environment, sub-hourly intervals, phase shift enabled smart inverters, synchronous action selection
