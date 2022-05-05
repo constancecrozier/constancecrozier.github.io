@@ -17,11 +17,14 @@ Please see a summary of my experience and accomplishments below, you can also vi
 
 <h2> Research Experience </h2>
 * **2020-pres** Postdoctoral Researcher, University of Colorado Boulder
-* **2016-2019** Postgraduate Researcher, University of Oxford
+	* Developer for the ARPA-E GO competition
+	* Research on optimization of distributed flexible resources
+* **2016-2019** Graduate Research Assistant, University of Oxford
+	* Research on electric vehicle integration, funded by Jaguar Land Rover
 
 <h2> Industry Experience </h2>
 * **2018-2022** Consultant Research Scientist, Various
-	* Integrated transmission level power flow solver into LMP prediction
+	* Integrated transmission power flow solver into LMP prediction
 	* Optimization of smart hot water tank usage for hourly prices
 * **2019-2020** Technical Energy Specialist, UK Government (BEIS)
 	* Technical advice for policy makers, mostly on demand response
@@ -33,11 +36,11 @@ Please see a summary of my experience and accomplishments below, you can also vi
 * **2021** Guest Lecturer, University of Colorado Boulder
 	* Electric vehicles and the grid, in the *Grid Connected Systems* class
 * **2020** Guest Project Assessor, Carnegie Mellon University
-	* Gave feedback on *Energy Transport and Storage** final projects
+	* Gave feedback on *Energy Transport & Storage* final projects
 * **2017-2019** Stipendiary Lecturer, University of Oxford (Christ Church)
 	* Gave tutorials on Mathematics for 1st and 2nd year engineers
 * **2018-2019** Stipendiary Lecturer, University of Oxford (Mansfield)
-	* Gave tutorials on Electrical Engineering for 1st 2nd year engineers
+	* Gave Electrical Engineering tutorials for 1st and 2nd years
 * **2017-2018** Third Year Tutor, University of Oxford
 	* Taught tutorials on Signal Processing and Image Analysis
 * **2017-2018** Laboratory demonstrator, University of Oxford
