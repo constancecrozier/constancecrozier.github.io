@@ -33,3 +33,5 @@ You can find the code [here](https://github.com/constancecrozier/SCORES).
 A user guide is provided [here](https://github.com/constancecrozier/SCORES/blob/master/SCORES_User_Guide.pdf).
 
 We request that you cite [this paper](/files/scores2022.pdf) in any works using the model. [[Bibtex entry](/files/scores.bib)]
+
+<img src="/images/meme.JPG" alt="drawing" width="600"/>
