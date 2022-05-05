@@ -12,7 +12,14 @@ Previously she worked at the UK Government, in the Department of Business, Energ
 She completed all of her degrees at the University of Oxford. Her PhD, in the [Energy and Power Group](https://epg.eng.ox.ac.uk), investigated the impacts that wide-spread electric vehicle charging would have on operation of electricity networks; both if consumers charge without intervention, and with smart charging. You can read her thesis [here](https://ora.ox.ac.uk/objects/uuid:1cb55756-6cc6-45ea-aa6d-82a952ecaf7c/download_file?safe_filename=thesis_revised.pdf&type_of_work=Thesis).
 
 <h2>Outreach</h2>
-Somethign
+I am very driven to reduce the socio-economic inequalities presently in academia. As an undergraduate I was the access and outreach representative of my college, and as a graduate student I volunteered at several outreach events. I am especially passionate about encouraging women and those from lower economic backgrounds into STEM.
+<img src="/images/openday.png" alt="drawing" width="300"/><img src="/images/uniq.png" alt="drawing" width="300"/>
+(L) Celebrating the end of an open day (R) UNIQ summer schools
+
+I believe that free online resources can help to reduce the barriers faced by students from less privileged backgrounds. I have a [science communication blog](https://constancecrozier.com/) and helped create a [video series](https://www.youtube.com/watch?v=DiJ1mvD0YRE) showing insight into the university admissions process.
+
+<img src="/images/video.png" alt="drawing" width="600"/>
+A still from one of the videos, on a sample Engineering undergraduate interview
 
 <h2>Personal</h2>
 Constance grew up in Lewisham, South East London - at almost exactly 0 degrees longitude! She enjoys running, hiking, climbing, and generally being outdoors. 
