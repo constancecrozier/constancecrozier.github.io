@@ -22,8 +22,9 @@ You can find the code [here](https://github.com/apigott/CityLearn/releases/tag/g
 We request that you cite [this paper](/files/gridlearn2022.pdf) in any works using the model.
 
 <h2>Storage Cost and Optimization of Renewable Electricity Systems (SCORES)</h2>
-*Original developer: Constance Crozier
-More recent contributions: Cormac O'Malley, Chris Quarton*
+*Original developer: Constance Crozier*
+
+*More recent contributions: Cormac O'Malley, Chris Quarton*
 
 This is a modeling framework for simulation and sizing of a renewables based electricity system. The model takes hourly data for weather and demand and can simulate the reliability of a system with given solar, wind, hydro, battery, thermal storage, and hydrogen assets.
 
