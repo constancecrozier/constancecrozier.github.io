@@ -12,7 +12,7 @@ I have a  number of projects for which we are able to offer open-source code and
 
 This is a dataset of the hourly electricity demand in 2019 for 155 transmission systems, spanning five continents. Data is provided in UTC.
 
-You can download the data [here](demand2019.csv).
+You can download the data [here](/files/demand2019.csv).
 
 We request that you cite [this paper](/files/Interconnection.pdf) in any works using the data. [[Bibtex entry](/files/interconnection.bib)]
  
