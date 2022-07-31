@@ -5,7 +5,7 @@ Welcome to my personal website. My research concerns development of control stra
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
 <h2>News</h2>
-* **07/2022** Excited to release <a href="/files/demand2019.csv" download="demand2019">here</a>[data](/files/demand2019.csv) on hourly electricity demand from 155 transmission systems, details [here](/code/).
+* **07/2022** Excited to release <a href="/files/demand2019.csv" download="demand2019">data</a> on hourly electricity demand from 155 transmission systems, details [here](/code/).
 * **06/2022** Chaired a session on Data-driven methods at the Annual International Conference on Probabilistic Methods Applied to Power Systems 
 * **04/2022** Presented our work on the socio-economic impacts of electric vehicle adoption at the IRT poster event.
 * **03/2022** [Paper](/files/pmaps2022.pdf) accepted to PMAPS 2022

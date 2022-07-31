@@ -7,14 +7,14 @@ permalink: /code/
 # Public Data and Code
 I have a  number of projects for which we are able to offer open-source code and/or data to other researchers. Please find the details below.
 
-<h2>Global demand data from 2019</h2>
+<h2>Global Demand Data from 2019</h2>
 *Primary developer: Constance Crozier*
 
 This is a dataset of the hourly electricity demand in 2019 for 155 transmission systems, spanning five continents. Data is provided in UTC.
 
-You can download the data [here](/files/demand2019.csv).
+You can download the data <a href="/files/demand2019.csv" download="demand2019">here</a>.
 
-We request that you cite [this paper](/files/Interconnection.pdf) in any works using the data. [[Bibtex entry](/files/interconnection.bib)]
+We request that you cite [this paper](/files/Interconnection.pdf) in any resulting works. [[Bibtex entry](/files/interconnection.bib)]
  
 <h2>GridLearn: Grid-aware Multi-Agent Reinforcement Learning</h2>
 *Primary developer: Aisling Pigott*
@@ -36,6 +36,6 @@ You can find the code [here](https://github.com/constancecrozier/SCORES).
 
 A user guide is provided [here](https://github.com/constancecrozier/SCORES/blob/master/SCORES_User_Guide.pdf).
 
-We request that you cite [this paper](/files/scores2022.pdf) in any works using the model. [[Bibtex entry](/files/scores.bib)]
+We request that you cite [this paper](/files/scores2022.pdf) in any resulting works. [[Bibtex entry](/files/scores.bib)]
 
 <img src="/images/meme.JPG" alt="drawing" width="600"/>
