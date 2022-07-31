@@ -7,10 +7,14 @@ permalink: /code/
 # Public Data and Code
 I have a  number of projects for which we are able to offer open-source code and/or data to other researchers. Please find the details below.
 
-<h2>Coming soon: Global demand data from 2019</h2>
+<h2>Global demand data from 2019</h2>
 *Primary developer: Constance Crozier*
 
-This is a dataset of the hourly electricity demand in 2019 for 155 geographic regions across the world. It will be published on this website at the release of our article (currently in the later stages of peer review).
+This is a dataset of the hourly electricity demand in 2019 for 155 transmission systems, spanning five continents. Data is provided in UTC.
+
+You can download the data [here](demand2019.csv).
+
+We request that you cite [this paper](/files/Interconnection.pdf) in any works using the data. [[Bibtex entry](/files/interconnection.bib)]
  
 <h2>GridLearn: Grid-aware Multi-Agent Reinforcement Learning</h2>
 *Primary developer: Aisling Pigott*
