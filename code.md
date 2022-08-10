@@ -14,7 +14,7 @@ This is a dataset of the hourly electricity demand in 2019 for 155 transmission 
 
 You can download the data <a href="/files/demand2019.csv" download="demand2019">here</a>.
 
-We request that you cite [this paper](/files/interconnection.pdf) in any resulting works. [[Bibtex entry](/files/interconnection.bib)]
+We request that you cite [this paper](/files/Interconnection.pdf) in any resulting works. [[Bibtex entry](/files/interconnection.bib)]
  
 <h2>GridLearn: Grid-aware Multi-Agent Reinforcement Learning</h2>
 *Primary developer: Aisling Pigott*
