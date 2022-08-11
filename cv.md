@@ -15,24 +15,34 @@ Please see a summary of my experience and accomplishments below, you can also vi
 	* Thesis: Bayesian Non-parametrics for the War in Afghanistan
 	* Advisor: Michael Osborne
 
-<h2> Research Experience </h2>
+<h2> Experience </h2>
 * **2020-pres** Postdoctoral Researcher, University of Colorado Boulder
 	* Developer for the ARPA-E GO competition
 	* Research on optimization of distributed flexible resources
-* **2016-2019** Graduate Research Assistant, University of Oxford
-	* Research on electric vehicle integration, funded by Jaguar Land Rover
-
-<h2> Industry Experience </h2>
-* **2018-2022** Consultant Research Scientist, Various
-	* Integrated transmission power flow solver into LMP prediction
-	* Optimization of smart hot water tank usage for hourly prices
 * **2019-2020** Technical Energy Specialist, UK Government (BEIS)
 	* Technical advice for policy makers, mostly on demand response
 	* Developed the SCORES modeling framework from scratch
+* **2016-2019** Graduate Research Assistant, University of Oxford
+	* Research on electric vehicle integration, funded by Jaguar Land Rover
+* **2018-2022** Consultant Research Scientist, Various
+	* Integrated transmission power flow solver into LMP prediction
+	* Optimization of smart hot water tank usage for hourly prices
 * **2018** Data Science Intern, Five AI
 	* Route planning for an autonomous vehicle service in London
 
-<h2> Teaching Experience </h2>
+<h2> Awards </h2>
+* **2021** Outstanding Postdoc Award, CU Boulder [[Press release](https://www.colorado.edu/researchinnovation/2021/09/15/cu-boulder-postdocs-and-faculty-mentors-honored-during-national-postdoctoral-appreciation)]
+* **2021** ARPA-E Grid Optimization Competition, Top 5 [[Press release](https://arpa-e.energy.gov/news-and-media/blog-posts/announcing-grid-optimization-go-competition-challenge-2-winners)]
+* **2020** Winner of UK Power Networks Charge Challenge [[Press release](https://www.ukpowernetworks.co.uk/internet/en/news-and-press/press-releases/UK-Power-Networks-launches-EV-Charge-Challenge.html)]
+* **2017** Best Presentation at MEEPS
+* **2015** Gibbs Prize for Best Part B Project, University of Oxford
+* **2014-2016** Academic Scholarship, University of Oxford  
+
+
+<h2> Publications </h2>
+See a full list [here](/pubs/), or on my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
+
+<h2> Teaching </h2>
 * **2021** Guest Lecturer, University of Colorado Boulder
 	* Electric vehicles and the grid, in the *Grid Connected Systems* class
 * **2020** Guest Project Assessor, Carnegie Mellon University
@@ -47,13 +57,3 @@ Please see a summary of my experience and accomplishments below, you can also vi
 	* Helped run several single-day labs on Image Analysis
 	* Helped run a week long lab on Microcontrollers
 
-<h2> Publications </h2>
-See a full list [here](/pubs/), or on my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
-
-<h2> Awards </h2>
-* **2021** Outstanding Postdoc Award, CU Boulder [[Press release](https://www.colorado.edu/researchinnovation/2021/09/15/cu-boulder-postdocs-and-faculty-mentors-honored-during-national-postdoctoral-appreciation)]
-* **2021** ARPA-E Grid Optimization Competition, Top 5 [[Press release](https://arpa-e.energy.gov/news-and-media/blog-posts/announcing-grid-optimization-go-competition-challenge-2-winners)]
-* **2020** Winner of UK Power Networks Charge Challenge [[Press release](https://www.ukpowernetworks.co.uk/internet/en/news-and-press/press-releases/UK-Power-Networks-launches-EV-Charge-Challenge.html)]
-* **2017** Best Presentation at MEEPS
-* **2015** Gibbs Prize for Best Part B Project, University of Oxford
-* **2014-2016** Academic Scholarship, University of Oxford  
