@@ -5,11 +5,11 @@ permalink: /about/
 ---
 <a href="https://constancecrozier.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
 # About Constance
-Since September 2020 Constance has been a postdoctoral researcher at CU Boulder. Her interests lie at the intersection of operations research and power systems. She is particularly interested in the integration of residential demand response into future electricity systems. She was the developer for the Electric Stampede team in the [ARPA-E Grid Optimization Competition](https://gocompetition.energy.gov), winning [$140,000 prize money](https://gocompetition.energy.gov/challenges/challenge-2/Leaderboards/Final) in challenge 2.
+Since September 2020 I have been a postdoctoral researcher at CU Boulder. My interests lie in the operation and composition of future low carbon power systems, especially regarding the integration of residential demand response. I was the developer for the Electric Stampede team in the [ARPA-E Grid Optimization Competition](https://gocompetition.energy.gov), winning [$140,000 prize money](https://gocompetition.energy.gov/challenges/challenge-2/Leaderboards/Final) in challenge 2.
 
-Previously she worked at the UK Government, in the Department of Business, Energy and Industrial Strategy as a Technical Energy Specialist. There she advised on government policy regarding vehicle electrification, and developed the [SCORES](https://github.com/constancecrozier/SCORES) modeling framework.
+Previously I worked in Government, at the Department of Business, Energy and Industrial Strategy as a Technical Energy Specialist. There I advised on government policy regarding vehicle electrification, and developed the [SCORES](https://github.com/constancecrozier/SCORES) modeling framework.
 
-She completed all of her degrees at the University of Oxford. Her PhD, in the [Energy and Power Group](https://epg.eng.ox.ac.uk), investigated the impacts that wide-spread electric vehicle charging would have on operation of electricity networks; both if consumers charge without intervention, and with smart charging. You can read her thesis [here](https://ora.ox.ac.uk/objects/uuid:1cb55756-6cc6-45ea-aa6d-82a952ecaf7c/download_file?safe_filename=thesis_revised.pdf&type_of_work=Thesis).
+I received all of my degrees at the University of Oxford. My PhD, in the [Energy and Power Group](https://epg.eng.ox.ac.uk), investigated the impacts that wide-spread electric vehicle charging would have on operation of electricity networks; both if consumers charge without intervention, and with smart charging. You can read my thesis [here](https://ora.ox.ac.uk/objects/uuid:1cb55756-6cc6-45ea-aa6d-82a952ecaf7c/download_file?safe_filename=thesis_revised.pdf&type_of_work=Thesis).
 
 <h2>Outreach</h2>
 I am very driven to reduce the socio-economic inequalities presently in academia. As an undergraduate I was the access and outreach representative of my college, and as a graduate student I volunteered at several outreach events. I am especially passionate about encouraging women and those from lower economic backgrounds into STEM.
@@ -22,7 +22,7 @@ I believe that free online resources can help to reduce the barriers faced by st
 A still from one of the videos on Engineering undergraduate interviews
 
 <h2>Personal</h2>
-Constance grew up in Lewisham, South East London - at almost exactly 0 degrees longitude! She enjoys running, hiking, climbing, and generally being outdoors. 
+I grew up in Lewisham, South East London - at almost exactly 0 degrees longitude! I enjoy running, hiking, climbing, and generally being outdoors. 
 
 <img src="/images/longs2021.jpg" alt="drawing" width="600"/>
 
