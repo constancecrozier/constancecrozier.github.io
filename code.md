@@ -23,7 +23,7 @@ This package adds functionality to the CityLearn package, which simulates a mult
 
 You can find the code [here](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0).
 
-We request that you cite [this paper](/files/gridlearn2022.pdf) in any works using the model.  [[Bibtex entry](/files/gridlearn.bib)]
+We request that you cite [this paper](/files/gridlearn2022.pdf) in any  in any resulting works.  [[Bibtex entry](/files/gridlearn.bib)]
 
 <h2>Storage Cost and Optimization of Renewable Electricity Systems (SCORES)</h2>
 *Original developer: Constance Crozier*
