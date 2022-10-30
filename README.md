@@ -2,6 +2,8 @@
 
 Welcome to my personal website. My research concerns development of control strategies for distributed assets which take into account human behavior, or human-in-the-loop. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and am currently a postdoctoral researcher in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. I am on the 22-23 academic job market.
 
+You can contact me at: constance.crozier@colorado.edu
+
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
 <h2>News</h2>
