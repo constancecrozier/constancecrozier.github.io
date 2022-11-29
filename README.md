@@ -7,6 +7,8 @@ You can contact me at: [constance.crozier@colorado.edu](mailto:constance.crozier
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
 <h2>News</h2>
+* **10/2022** I attended the [Rising Stars 2022 Workshop](https://www.linkedin.com/feed/update/urn:li:activity:6991833288759816192/), it was great to meet everyone!
+* **10/2022** I am at INFORMS 2022, presenting on "Robust pricing for residential demand response with human-in-the-loop".
 * **08/2022** Excited to have been selected to attend the Rising Stars workshop at UT Austin in October.
 * **07/2022** I am releasing <a href="/files/demand2019.csv" download="demand2019">hourly electricity demand data</a> from 155 transmission systems alongside the publication of our [new paper](/files/Interconnection.pdf) in Applied Energy, details [here](/code/).
 * **06/2022** I chaired a session on Data-driven Methods at PMAPS.
