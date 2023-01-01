@@ -37,6 +37,7 @@ Please see a summary of my experience and accomplishments below, you can also vi
 * **2020** Winner of UK Power Networks Charge Challenge [[Press release](https://www.ukpowernetworks.co.uk/internet/en/news-and-press/press-releases/UK-Power-Networks-launches-EV-Charge-Challenge.html)]
 * **2017** Best Presentation at MEEPS
 * **2015** Gibbs Prize for Best Part B Project, University of Oxford
+* **2014** Winner of Intern Hackathon, Metaswitch Networks
 * **2014-2016** Academic Scholarship, University of Oxford  
 
 
