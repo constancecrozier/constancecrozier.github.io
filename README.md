@@ -7,6 +7,16 @@ You can contact me at: [constance.crozier@colorado.edu](mailto:constance.crozier
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
 <h2>News</h2>
+* **4/2023** [Results are out](https://gocompetition.energy.gov/challenges/challenge-3/Leaderboards/Event-2) for Event 2 of the ARPA-E Grid Optimization competition, our team Electric Stampede won two out of three divisions! 
+* **3/2023** Congratulations to undergraduate student Calla on getting her first [paper](/files/gm2023.pdf) accepted into PESGM!
+* **3/2023** I was pleased to give a seminar at UC Davis
+* **3/2023** I was pleased to give a seminar at Duke University
+* **3/2023** I was pleased to give a seminar at Cornell University
+* **3/2023** I was pleased to give a seminar at Cornell Tech
+* **2/2023** I was pleased to give a seminar at Carnegie Mellon University
+* **2/2023** I was pleased to give a seminar at Georgia Tech
+* **1/2023** I was pleased to give a seminar at Rice University
+* **12/2022** I visited and gave a seminar at Texas A&M University
 * **12/2022** Our team, led by UT Austin, has been selected for a \$400k award to compete in Challenge 3 of the ARPA-E Grid Optimization Competition. [[Press release](https://arpa-e.energy.gov/news-and-media/press-releases/department-energy-announces-grid-optimization-go-competition)]
 * **10/2022** I attended the [Rising Stars 2022 Workshop](https://www.linkedin.com/feed/update/urn:li:activity:6991833288759816192/), it was great to meet everyone!
 * **10/2022** I am at INFORMS 2022, presenting on "Robust pricing for residential demand response with human-in-the-loop".
