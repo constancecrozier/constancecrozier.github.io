@@ -9,6 +9,7 @@ Please see a complete list of my publications below, sorted by year, with **open
 
 **2023**
 * C. Winner, J. Garland, **C. Crozier**, K. Baker, [Carbon Emissions Resulting from Different Power Flow Models for Dispatch](/files/gm2023.pdf), *IEEE PES General Meeting*
+
 **2022**
 * A. Pigott, **C. Crozier**, K. Baker, Z. Nagy, [GridLearn: multiagent reinforcement learning for grid-aware building energy management](/files/gridlearn2022.pdf), *Electric Power Systems Research* [[Code](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0)]
 * **C. Crozier**, Kyri Baker, [The effect of renewable electricity generation on the value of cross-border interconnection](/files/Interconnection.pdf/), *Applied Energy*.
