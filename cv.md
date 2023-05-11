@@ -16,7 +16,8 @@ Please see a summary of my experience and accomplishments below, you can also vi
 	* Advisor: Michael Osborne
 
 <h2> Experience </h2>
-* **2020-pres** Postdoctoral Researcher, University of Colorado Boulder
+* **Aug 2023-** Assistant Professor, Georgia Institute of Technology
+* **2020-2023** Postdoctoral Researcher, University of Colorado Boulder
 	* Developer for the ARPA-E GO competition
 	* Research on optimization of distributed flexible resources
 * **2019-2020** Technical Energy Specialist, UK Government (BEIS)

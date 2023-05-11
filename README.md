@@ -1,12 +1,13 @@
 <a href="https://constancecrozier.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
 
-Welcome to my personal website. My research concerns development of control strategies for distributed assets which take into account human behavior, or human-in-the-loop. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and am currently a postdoctoral researcher in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. I am on the 22-23 academic job market.
+Welcome to my personal website. My research concerns development of control strategies for distributed assets which take into account human behavior, or human-in-the-loop. I am an incoming Assistant Professor at Georgia Tech ISyE. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and completed my postdoc in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. 
 
 You can contact me at: [constance.crozier@colorado.edu](mailto:constance.crozier@colorado.edu)
 
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
 <h2>News</h2>
+* **5/2023** Excited to announce that I will move to Georgia Tech ISyE this Fall as an Assistant Professor!
 * **4/2023** [Results are out](https://gocompetition.energy.gov/challenges/challenge-3/Leaderboards/Event-2) for Event 2 of the ARPA-E Grid Optimization competition, Electric Stampede won in half of the divisions! 
 * **3/2023** Congratulations to undergraduate student Calla on getting her first [paper](/files/gm2023.pdf) accepted into PESGM!
 * **3/2023** I was pleased to give a seminar at UC Davis
