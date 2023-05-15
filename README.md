@@ -1,6 +1,6 @@
 <a href="https://constancecrozier.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
 
-Welcome to my personal website. My research concerns development of control strategies for distributed assets which take into account human behavior, or human-in-the-loop. I am an incoming Assistant Professor at Georgia Tech ISyE. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and completed my postdoc in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. 
+Welcome to my personal website. My research concerns the control and operation of decarbonized power systems, particularly with the integration of flexible loads such as electric vehicles. I am an incoming Assistant Professor at Georgia Tech ISyE. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and completed my postdoc in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. 
 
 You can contact me at: [constance.crozier@colorado.edu](mailto:constance.crozier@colorado.edu)
 
