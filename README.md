@@ -2,7 +2,7 @@
 
 Welcome to my personal website. My research concerns the control and operation of decarbonized power systems, particularly with the integration of flexible loads such as electric vehicles. I am an incoming Assistant Professor at Georgia Tech ISyE. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and completed my postdoc in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. 
 
-You can contact me at: [constance.crozier@colorado.edu](mailto:constance.crozier@colorado.edu)
+You can contact me at: [ccrozier8@gatech.edu](mailto:ccrozier8@gatech.edu)
 
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
