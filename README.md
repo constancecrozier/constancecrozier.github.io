@@ -1,12 +1,15 @@
 <a href="https://constancecrozier.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
 
-Welcome to my personal website. My research concerns the control and operation of decarbonized power systems, particularly with the integration of flexible loads such as electric vehicles. I am an incoming Assistant Professor at Georgia Tech ISyE. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and completed my postdoc in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. 
+I am an Assistant Professor at Georgia Tech ISyE. My research concerns the control and operation of decarbonized power systems, particularly with the integration of flexible loads such as electric vehicles. I got my PhD from the University of Oxford in the [Energy and Power Group](https://epg.eng.ox.ac.uk), and completed my postdoc in the [GRIFFIN Lab](http://www.kyrib.com) at CU Boulder. 
 
 You can contact me at: [ccrozier8@gatech.edu](mailto:ccrozier8@gatech.edu)
+
+I am actively recruiting PhD students.
 
 If you came here looking for my blog, it is now hosted at [this address](https://constancecrozier.wordpress.com), apologies for the inconvenience!
 
 <h2>News</h2>
+* **7/2023** Our paper titled [Price Perturbations for Privacy Preserving Demand Response With Distribution Network Awareness](/files/robust_dr.pdf) is accepted for publication in IEEE Transactions on Smart Grid!
 * **5/2023** Excited to announce that I will move to Georgia Tech ISyE this Fall as an Assistant Professor!
 * **4/2023** [Results are out](https://gocompetition.energy.gov/challenges/challenge-3/Leaderboards/Event-2) for Event 2 of the ARPA-E Grid Optimization competition, Electric Stampede won in half of the divisions! 
 * **3/2023** Congratulations to undergraduate student Calla on getting her first [paper](/files/gm2023.pdf) accepted into PESGM!

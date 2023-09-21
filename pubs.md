@@ -7,7 +7,9 @@ permalink: /pubs/
 # Publications
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
+
 **2023**
+* **C. Crozier**, A. Pigott, K. Baker, [Price Perturbations for Privacy Preserving Demand Response With Distribution Network Awareness](/files/robust_dr.pdf), *IEEE Transactions on Smart Grid* [[Code](https://github.com/constancecrozier/robustDR)]
 * C. Winner, J. Garland, **C. Crozier**, K. Baker, [Carbon Emissions Resulting from Different Power Flow Models for Dispatch](/files/gm2023.pdf), *IEEE PES General Meeting*
 
 **2022**
