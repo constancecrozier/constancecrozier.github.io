@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 permalink: /cv/
 ---
-<a href="https://constancecrozier.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a><a href="https://constancecrozier.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a>
+
 # Curriculum Vitae
 Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/crozier_cv.pdf).
 

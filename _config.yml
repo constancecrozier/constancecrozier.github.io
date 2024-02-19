@@ -1,6 +1,7 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               Constance Crozier
+url:                 https://constancecrozier.github.io
 baseurl:             ""
+google_analytics: G-0MHBYB69TE
 
 markdown:            kramdown
 highlighter:         rouge
@@ -19,9 +20,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Constance Crozier
+  url:               constancecrozier.github.io
+  email:             ccrozier8@gatech.edu
 
 plugins:
   - jekyll-coffeescript
