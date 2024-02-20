@@ -13,4 +13,4 @@ I received all of my degrees at the University of Oxford. My PhD, in the [Energy
 
 I have a number of hobbies, which mostly revolve around spending time outside. See select images below.
 
-<img src="/images/Collage.pdf" alt="drawing" width="600"/>
+<img src="/images/Collage.png" alt="drawing" width="600"/>
