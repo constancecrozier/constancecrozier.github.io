@@ -6,7 +6,7 @@ title: Group Members
 **PI: Constance Crozier**
 <img src="/images/headshot_border-min.jpg" alt="drawing" width="140"/>
 
-<p style="text-align:center;"><h3>Current PhD Students</h3></p>
+<p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
 **Rina Davila Severiano**
 <img src="/images/empty_frame.png" alt="drawing" width="140"/>
