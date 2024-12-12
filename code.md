@@ -7,6 +7,13 @@ permalink: /code/
 # Public Data and Code
 I have a  number of projects for which we are able to offer open-source code and/or data to other researchers. Please find the details below.
 
+<h2>Reinforcement Learning for Battery Trading</h2>
+*Primary developer: Caleb Ju*
+
+This package defines a reinforcement learning environment to train agents to perform energy arbitrage based on historic price signals. 
+
+You can find the code [here](https://github.com/jucaleb4/battery-trading).
+
 <h2>Global Demand Data from 2019</h2>
 *Primary developer: Constance Crozier*
 
@@ -19,7 +26,7 @@ We request that you cite [this paper](/files/Interconnection.pdf) in any resulti
 <h2>GridLearn: Grid-aware Multi-Agent Reinforcement Learning</h2>
 *Primary developer: Aisling Pigott*
 
-This package adds functionality to the CityLearn package, which simulates a multi-agent reinforcement learning environment for demand response. Added features include: coupled pandapower grid environment, sub-hourly intervals, phase shift enabled smart inverters, synchronous action selection
+This package adds functionality to the CityLearn package, which simulates a multi-agent reinforcement learning environment for demand response. Added features include: coupled pandapower grid environment, sub-hourly intervals, phase shift enabled smart inverters, synchronous action selection.
 
 You can find the code [here](https://github.com/apigott/CityLearn/releases/tag/gridlearn-v1.0).
 
