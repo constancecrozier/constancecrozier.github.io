@@ -7,8 +7,13 @@ permalink: /pubs/
 # Publications
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
+**2025**
+* **C. Ju**, **C. Crozier**, [Learning a local trading strategy: Deep reinforcement learning for grid-scale renewable energy integration](/files/hiccs_25.pdf), *Hawaii International Conference on System Sciences*
+* H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Scalable Solutions for Security-Constrained Optimal Power Flow with Multiple Time Steps](/files/sharadga_go.pdf), *IEEE Transactions on Industrial Applications*
+
 
 **2024**
+* **R. Davila-Severiano**, **C. Crozier**, [Scheduling electrified freight transportation to increase renewable generation utilization](/files/naps_24.pdf), *IEEE North American Power Systems Conference*
 * **C. Crozier**, A. Pigott, K. Baker, [Price Perturbations for Privacy Preserving Demand Response With Distribution Network Awareness](/files/robust_dr.pdf), *IEEE Transactions on Smart Grid* [[Code](https://github.com/constancecrozier/robustDR)]
 * P. Priyadarshan, E. Pergantis, **C. Crozier**, K. Baker, K. Kircher, [EDGIE: A simulation test-bed for investigating the impacts of building and vehicle electrification on distribution grids](/files/0306.pdf), *Hawaii International Conference on System Sciences*
 * H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Optimizing Multi-Timestep Security-Constrained Optimal Power Flow for Large Power Grids](/files/2311_15175.pdf), *Texas Power Engineering Conference*
