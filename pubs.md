@@ -8,7 +8,7 @@ permalink: /pubs/
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
 **2025**
-* **C. Ju**, **C. Crozier**, [Learning a local trading strategy: Deep reinforcement learning for grid-scale renewable energy integration](/files/hiccs_25.pdf), *Hawaii International Conference on System Sciences*
+* **C. Ju**, **C. Crozier**, [Learning a local trading strategy: Deep reinforcement learning for grid-scale renewable energy integration](/files/hiccs_25.pdf), *Hawaii International Conference on System Sciences* [[Code](https://github.com/jucaleb4/battery-trading)]
 * H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Scalable Solutions for Security-Constrained Optimal Power Flow with Multiple Time Steps](/files/sharadga_go.pdf), *IEEE Transactions on Industrial Applications*
 
 
