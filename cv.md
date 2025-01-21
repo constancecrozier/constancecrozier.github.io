@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Curriculum Vitae
-Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/crozier_cv.pdf).
+Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/Crozier_CV_Short.pdf).
 
 <h2> Education </h2>
 * **2016-2020** DPhil in Engineering Science, University of Oxford
@@ -26,8 +26,10 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 
 <h2> Teaching </h2>
 * **ISYE 4501** Energy, Efficiency, and Sustainability
+	* Spring 2025
 	* Spring 2024
 * **ISYE 6669** Deterministic Optimization
+	* Spring 2025
 	* Fall 2023
 
 
