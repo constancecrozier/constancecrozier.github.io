@@ -10,6 +10,8 @@ Please see a complete list of my publications below, sorted by year, with **open
 **2025**
 * **C. Ju**, **C. Crozier**, [Learning a local trading strategy: Deep reinforcement learning for grid-scale renewable energy integration](/files/hiccs_25.pdf), *Hawaii International Conference on System Sciences* [[Code](https://github.com/jucaleb4/battery-trading)]
 * H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Scalable Solutions for Security-Constrained Optimal Power Flow with Multiple Time Steps](/files/sharadga_go.pdf), *IEEE Transactions on Industrial Applications*
+* M. Neaimeh, **C. Crozier**, M. Deakin, [Learning by charging: Understanding consumers’ changing attitudes towards vehicle-to-grid](/files/V2G_perceptions.pdf), *Applied Energy*
+* M. Mohammadian, K. Baker, **C. Crozier**, [Spatial arbitrage through bidirectional electric vehicle charging with delivery fleets](/files/Spatial_Arbitrage.pdf), *Applied Energy*
 
 
 **2024**
