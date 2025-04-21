@@ -9,10 +9,10 @@ title: Group Members
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
 **Rina Davila Severiano**
-<img src="/images/headshot_rina.png" alt="drawing" width="140"/>
+<img src="/images/headshot_rina.jpg" alt="drawing" width="140"/>
 * Start date: Fall 2023
 * Research area: Electrified freight transportation
-* Publications: 
+* Publications: [NAPS '25]()
 
 **Xiangxin An**
 <img src="/images/empty_frame.png" alt="drawing" width="140"/>
@@ -22,7 +22,7 @@ title: Group Members
 
 <p style="text-align:center;"><h2>Current MS Students</h2></p>
 **Yiru An**
-<img src="/images/headshot_yiru.png" alt="drawing" width="140"/>
+<img src="/images/headshot_yiru.jpg" alt="drawing" width="140"/>
 * Start date: Spring 2025
 * Research area: Battery swapping for electric freight
 
@@ -31,5 +31,5 @@ title: Group Members
 <img src="/images/empty_frame.png" alt="drawing" width="140"/>
 * Supervisor: George Lan
 * Research area: Energy applications of reinforcement learning
-* Publications: 
+* Publications: [HICSS '25]()
 * [Personal website](https://jucaleb4.github.io) 
