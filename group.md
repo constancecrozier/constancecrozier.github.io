@@ -15,13 +15,13 @@ title: Group Members
 * Publications: [NAPS '25]()
 
 **Xiangxin An**
-<img src="/images/empty_frame.png" alt="drawing" width="140"/>
+<img src="/images/headshot_xiangxin.jpg" alt="drawing" width="140"/>
 * Co-supervisor: Santanu Dey
 * Start date: Fall 2024
 * Research area: Discrete actions within power system operation
 
 <p style="text-align:center;"><h2>Current MS Students</h2></p>
-**Yiru An**
+**Yiru Ji**
 <img src="/images/headshot_yiru.jpg" alt="drawing" width="140"/>
 * Start date: Spring 2025
 * Research area: Battery swapping for electric freight
