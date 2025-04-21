@@ -3,8 +3,8 @@ layout: page
 title: Group Members
 ---
 
-**PI: Constance Crozier**
-<img src="/images/headshot_border-min.jpg" alt="drawing" width="140"/>
+<! -- **PI: Constance Crozier**
+<img src="/images/headshot_border-min.jpg" alt="drawing" width="140"/> -->
 
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
@@ -15,11 +15,6 @@ title: Group Members
 * Publications: [NAPS '25]()
 
 **Xiangxin An**
-
-![image](images/headshot_xiangxin.jpeg){: style="float: left"}
-Some text.
-
-
 <img src="/images/headshot_xiangxin.jpeg" alt="drawing" width="140"/>
 * Co-supervisor: Santanu Dey
 * Start date: Fall 2024
