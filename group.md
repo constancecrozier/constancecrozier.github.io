@@ -17,11 +17,16 @@ title: Group Members
 * Start date: Fall 2024
 * Research area: Discrete actions within power system operation
 
+**Catherine Wang**
+<img src="/images/headshot_catherine.jpeg" alt="drawing" width="160"/>
+* Start date: Fall 2025
+* Research area: Dispatchable grid-scale flexibility 
+
 <p style="text-align:center;"><h2>Current MS Students</h2></p>
 **Yiru Ji**
 <img src="/images/headshot_yiru.jpeg" alt="drawing" width="160"/>
 * Start date: Spring 2025
-* Research area: Battery swapping for electric freight
+* Research area: Flexible operation of data centers
 
 <p style="text-align:center;"><h2>Collaborating PhD Students</h2></p>
 **Caleb Ju**
