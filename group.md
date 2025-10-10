@@ -18,7 +18,7 @@ title: Group Members
 * Research area: Discrete actions within power system operation
 
 **Catherine Wang**
-<img src="/images/headshot_catherine.jpeg" alt="drawing" width="160"/>
+<img src="/images/headshot_catherine.png" alt="drawing" width="160"/>
 * Start date: Fall 2025
 * Research area: Dispatchable grid-scale flexibility 
 
