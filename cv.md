@@ -7,6 +7,11 @@ permalink: /cv/
 # Curriculum Vitae
 Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/Crozier_CV_Short.pdf).
 
+<h2> Experience </h2>
+* **Aug 2023-** Assistant Professor, Georgia Institute of Technology
+* **2020-2023** Postdoctoral Researcher, University of Colorado Boulder
+* **2019-2020** Technical Energy Specialist, UK Government (BEIS)
+
 <h2> Education </h2>
 * **2016-2020** DPhil in Engineering Science, University of Oxford
 	* Thesis: [The Impact of Domestic Electric Vehicles on Electricity Networks](https://ora.ox.ac.uk/objects/uuid:1cb55756-6cc6-45ea-aa6d-82a952ecaf7c/download_file?safe_filename=thesis_revised.pdf&type_of_work=Thesis)
@@ -14,12 +19,6 @@ Please see a summary of my experience and accomplishments below, you can also vi
 * **2012-2016** MEng in Engineering Science, University of Oxford 
 	* Thesis: Bayesian Non-parametrics for the War in Afghanistan
 	* Advisor: Michael Osborne
-
-<h2> Experience </h2>
-* **Aug 2023-** Assistant Professor, Georgia Institute of Technology
-* **2020-2023** Postdoctoral Researcher, University of Colorado Boulder
-* **2019-2020** Technical Energy Specialist, UK Government (BEIS)
-
 
 <h2> Publications </h2>
 See a full list [here](/pubs/), or on my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
@@ -31,6 +30,10 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 * **ISYE 6669** Deterministic Optimization
 	* Spring 2025
 	* Fall 2023
+* **ISYE 6673** Financial Optimization
+	* Spring 2026
+* **ISYE 8803** Power Networks
+	* Fall 2025
 
 
 <h2> Awards </h2>
