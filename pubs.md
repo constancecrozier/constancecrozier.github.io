@@ -8,6 +8,10 @@ permalink: /pubs/
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
 **2025**
+* **X. An**, **C. Crozier**, S. Dey, S. Grijalva, [Combined bound tightening on McCormick relaxations of AC optimal power flow](/files/NAPS_252.pdf), *IEEE North American Power Systems Conference*
+* **Y. Ji**, **R. Davila**, **C. Crozier**, [Battery swapping stations of long haul freight charging considering an electrified supply chain](/files/NAPS_252.pdf), *IEEE North American Power Systems Conference*
+* **C. Crozier**, M. Liska, [The potential of data center energy demand to provide grid flexibility](/files/Data_Centers_Review_jk.pdf), *Current Sustainable/Renewable Energy Reports*
+* Priyadarshan, **C. Crozier**, K. Baker, K. Kircher, [Distribution grids may be a barrier to residential electrification](/files/CELL_REPORTS_SUSTAINABILITY.pdf), *Cell reports Sustainability*
 * **C. Ju**, **C. Crozier**, [Learning a local trading strategy: Deep reinforcement learning for grid-scale renewable energy integration](/files/hiccs_25.pdf), *Hawaii International Conference on System Sciences* [[Code](https://github.com/jucaleb4/battery-trading)]
 * H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Scalable Solutions for Security-Constrained Optimal Power Flow with Multiple Time Steps](/files/sharadga_go.pdf), *IEEE Transactions on Industrial Applications*
 * M. Neaimeh, **C. Crozier**, M. Deakin, [Learning by charging: Understanding consumers’ changing attitudes towards vehicle-to-grid](/files/V2G_perceptions.pdf), *Applied Energy*
@@ -19,8 +23,6 @@ Please see a complete list of my publications below, sorted by year, with **open
 * **C. Crozier**, A. Pigott, K. Baker, [Price Perturbations for Privacy Preserving Demand Response With Distribution Network Awareness](/files/robust_dr.pdf), *IEEE Transactions on Smart Grid* [[Code](https://github.com/constancecrozier/robustDR)]
 * P. Priyadarshan, E. Pergantis, **C. Crozier**, K. Baker, K. Kircher, [EDGIE: A simulation test-bed for investigating the impacts of building and vehicle electrification on distribution grids](/files/0306.pdf), *Hawaii International Conference on System Sciences*
 * H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Optimizing Multi-Timestep Security-Constrained Optimal Power Flow for Large Power Grids](/files/2311_15175.pdf), *Texas Power Engineering Conference*
-
-
 
 **2023**
 * C. Winner, J. Garland, **C. Crozier**, K. Baker, [Carbon Emissions Resulting from Different Power Flow Models for Dispatch](/files/gm2023.pdf), *IEEE PES General Meeting*
