@@ -36,7 +36,7 @@ title: Group Members
 <p style="text-align:center;"><h2>Collaborating PhD Students</h2></p>
 **Caleb Ju**
 <img src="/images/headshot_caleb.jpeg" alt="drawing" width="160"/>
-**Caleb is currently on the Academic job market!**
+* Caleb is **currently on the Academic job market!**
 * Supervisor: George Lan
 * Research area: Energy applications of reinforcement learning
 * Publications: [HICSS '25](files/hicss_25.pdf)
