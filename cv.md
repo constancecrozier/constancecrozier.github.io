@@ -8,7 +8,7 @@ permalink: /cv/
 Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/Crozier_CV_Short.pdf).
 
 <h2> Experience </h2>
-* **Aug 2023-** Assistant Professor, Georgia Institute of Technology
+* **2023-pres** Assistant Professor, Georgia Institute of Technology
 * **2020-2023** Postdoctoral Researcher, University of Colorado Boulder
 * **2019-2020** Technical Energy Specialist, UK Government (BEIS)
 
