@@ -7,6 +7,9 @@ permalink: /pubs/
 # Publications
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
+**2026**
+* **R. Davila**, **C. Crozier**, V. Thomas, [Optimization of Solar and Storage at Behind-the-Meter Residential and Commercial Sites in Three Michigan Utility Service Territories](/files/Solar_Michigan_Report_Final.pdf)
+
 **2025**
 * **X. An**, **C. Crozier**, S. Dey, S. Grijalva, [Combined bound tightening on McCormick relaxations of AC optimal power flow](/files/NAPS_252.pdf), *IEEE North American Power Systems Conference*
 * **Y. Ji**, **R. Davila**, **C. Crozier**, [Battery swapping stations of long haul freight charging considering an electrified supply chain](/files/NAPS_252.pdf), *IEEE North American Power Systems Conference*
