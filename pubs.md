@@ -13,7 +13,7 @@ Please see a complete list of my publications below, sorted by year, with **open
 
 
 **2026**
-* **C.Crozier**, [Modeling to generate alternatives for robustness of mixed integer DC optimal power flow](files/SEGAN_OTS-4.pdf) 
+* **C.Crozier**, [Modeling to generate alternatives for robustness of mixed integer DC optimal power flow](files/SEGAN_OTS-4.pdf), *Sustainable Energy Grids and Networks* 
 * **R. Davila**, **C. Crozier**, V. Thomas, [Optimization of Solar and Storage at Behind-the-Meter Residential and Commercial Sites in Three Michigan Utility Service Territories](/files/Solar_Michigan_Report_Final.pdf)
 
 **2025**
@@ -25,7 +25,6 @@ Please see a complete list of my publications below, sorted by year, with **open
 * H. Sharadga, J. Mohammadi, **C. Crozier**, K. Baker, [Scalable Solutions for Security-Constrained Optimal Power Flow with Multiple Time Steps](/files/sharadga_go.pdf), *IEEE Transactions on Industrial Applications*
 * M. Neaimeh, **C. Crozier**, M. Deakin, [Learning by charging: Understanding consumers’ changing attitudes towards vehicle-to-grid](/files/V2G_perceptions.pdf), *Applied Energy*
 * M. Mohammadian, K. Baker, **C. Crozier**, [Spatial arbitrage through bidirectional electric vehicle charging with delivery fleets](/files/Spatial_Arbitrage.pdf), *Applied Energy*
-
 
 **2024**
 * **R. Davila-Severiano**, **C. Crozier**, [Scheduling electrified freight transportation to increase renewable generation utilization](/files/naps_24.pdf), *IEEE North American Power Systems Conference*
