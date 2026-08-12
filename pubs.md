@@ -13,6 +13,7 @@ Please see a complete list of my publications below, sorted by year, with **open
 
 
 **2026**
+* **C. Wang**, **C. Crozier**, Priyadarshan, K. Kircher [Aggregate modeling of system-level thermal demand flexibility](/files/NAPS2026.pdf), *IEEE North American Power Systems Conference*
 * **C.Crozier**, [Modeling to generate alternatives for robustness of mixed integer DC optimal power flow](files/SEGAN_OTS-4.pdf), *Sustainable Energy Grids and Networks* 
 * **R. Davila**, **C. Crozier**, V. Thomas, [Optimization of Solar and Storage at Behind-the-Meter Residential and Commercial Sites in Three Michigan Utility Service Territories](/files/Solar_Michigan_Report_Final.pdf)
 
