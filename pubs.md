@@ -7,7 +7,13 @@ permalink: /pubs/
 # Publications
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
+*pre-print articles under review*
+* **Y. Ji**, **C. Crozier**, M. Liska, [Quantifying and attributing power flexibility from GPU-heavy data centers](https://arxiv.org/pdf/2603.27831)
+* **R. Davila**, **C.Crozier**, M. O'Malley, [On the potential of electrified supply chains to provide long duration demand flexibility](https://arxiv.org/pdf/2505.05982)
+
+
 **2026**
+* **C.Crozier**, [Modeling to generate alternatives for robustness of mixed integer DC optimal power flow](files/SEGAN_OTS-4.pdf) 
 * **R. Davila**, **C. Crozier**, V. Thomas, [Optimization of Solar and Storage at Behind-the-Meter Residential and Commercial Sites in Three Michigan Utility Service Territories](/files/Solar_Michigan_Report_Final.pdf)
 
 **2025**
