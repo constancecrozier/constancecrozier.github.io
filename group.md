@@ -5,14 +5,31 @@ title: Group Members
 
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
-**Rina Davila Severiano**
+**Rina Davila Severiano** Fall 2023 - present
+<table>
+  <tr>
+    <td>
+      <img src="/images/headshot_rina.jpeg" alt="Rina Davila Severiano" width="160">
+    </td>
+    <td>
+      <ul>
+        <li>Start date: Fall 2023</li>
+        <li>Research area: Electrified freight transportation</li>
+        <li>Publications: <a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint</a></li>
+        <li>Presentations: NAPS '24, IISE '25, PESGM '25, INFORMS '25</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 <img src="/images/headshot_rina.jpeg" alt="drawing" width="160"/>
 * Start date: Fall 2023
 * Research area: Electrified freight transportation
 * Publications: [NAPS '24](files/naps_24.pdf), [Preprint](https://arxiv.org/pdf/2505.05982)
 * Presentations: NAPS '24, IISE '25, PESGM '25, INFORMS '25
 
-**Xiangxin An**
+**Xiangxin An** *(Co-advised with Santanu Dey)*
 <img src="/images/headshot_xiangxin.jpeg" alt="drawing" width="160"/>
 * Co-supervisor: Santanu Dey
 * Start date: Fall 2024
