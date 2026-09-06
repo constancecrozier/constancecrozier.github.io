@@ -5,38 +5,6 @@ title: Group Members
 
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
-<div style="
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  border: 1px solid #ddd;
-  padding: 6px;
-">
-  <img
-    src="/images/headshot_rina.jpeg"
-    alt="Rina Lavida Severiano"
-    width="160"
-    style="
-      display: block;
-      width: 160px;
-      height: auto;
-      max-width: none;
-      flex: 0 0 160px;
-    "
-  >
-
-  <div style="flex: 1;">
-    <strong>Rina Lavida Severiano</strong>
-    <p style="margin: 4px 0 0;">
-      Rina is a PhD candidate in the Industrial Engineering program.
-      Her research investigates the economics of electric long haul
-      freight operations (<a href="https://arxiv.org/pdf/2505.05982">Preprint 1</a>),
-      and whether fully electrified supply chains can provide long duration
-      demand flexibility (<a href="files/naps_24.pdf">NAPS24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>)..
-    </p>
-  </div>
-</div>
-
 <table style="width: 100%;">
   <tr>
 <td style="width: 180px; height: 180px; padding: 0;">
@@ -47,11 +15,13 @@ title: Group Members
   >
 </td> 
     <td style="vertical-align: top;">
-    	<b>Rina Davila Severiano</b><br>
-    	Rina is a PhD candidate in the Industrial Engineering program. Her research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
+    	<b>Rina Davila Severiano</b><br><br>
+    	Rina is a PhD candidate in the Industrial Engineering program. Her research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
-   <tr>
+
+  
+     <tr>
     <td style="width: 180px; vertical-align: top;">
       <img
         src="/images/headshot_xiangxin.jpeg"
@@ -62,11 +32,26 @@ title: Group Members
       >
     </td>   
     <td>
-    	<b>Xiangxin An</b> <i>(Co-advised with Santanu Dey)</i><br>
-    	Description
+    	<b>Xiangxin An</b> <i>(Co-advised with Santanu Dey)</i><br><br>
+    	Xiangxin is a PhD student in the Industrial Engineering program. Her research focuses on convex relaxations for AC power flow problems, with the goal of finding optimal decisions in power systems (<a href="files/naps_25.pdf">NAPS'25</a>). 
     </td>
   </tr> 
   
+     <tr>
+    <td style="width: 180px; vertical-align: top;">
+      <img
+        src="/images/headshot_yiru.jpeg"
+        alt="Yiru Ji"
+        width="160"
+        height="160"
+        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+      >
+    </td>   
+    <td>
+    	<b>Yiru Ji</b> <br><br>
+    	Yiru is a PhD student in the Industrial Engineering program. Her research focuses on control of GPU-heavy data centers, with the objective of providing grid flexibility(<a href="https://arxiv.org/pdf/2603.27831">HICSS27</a>). She also worked with me during her Masters, where she investigated the role of battery swapping in heavy goods freight electrification(<a href="files/naps_252.pdf">NAPS25</a>). 
+    </td>
+  </tr> 
 </table>
 
 
