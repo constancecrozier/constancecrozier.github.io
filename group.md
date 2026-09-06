@@ -26,9 +26,7 @@ title: Group Members
       <img
         src="/images/headshot_xiangxin.jpeg"
         alt="Xiangxin An"
-        width="160"
-        height="160"
-        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+    	style="display: block; width: 100%; height: 100%; object-fit: cover;"
       >
     </td>   
     <td>
@@ -42,9 +40,7 @@ title: Group Members
       <img
         src="/images/headshot_yiru.jpeg"
         alt="Yiru Ji"
-        width="160"
-        height="160"
-        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+    	style="display: block; width: 100%; height: 100%; object-fit: cover;"
       >
     </td>   
     <td>
@@ -59,9 +55,7 @@ title: Group Members
       <img
         src="/images/headshot_catherine.png"
         alt="Catherine Wang"
-        width="160"
-        height="160"
-        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+    	style="display: block; width: 100%; height: 100%; object-fit: cover;"
       >
     </td>   
     <td>
@@ -83,9 +77,7 @@ title: Group Members
       <img
         src="/images/headshot_caleb.jpeg"
         alt="Caleb Ju"
-        width="160"
-        height="160"
-        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+    	style="display: block; width: 100%; height: 100%; object-fit: cover;"
       >
     </td>   
     <td>
