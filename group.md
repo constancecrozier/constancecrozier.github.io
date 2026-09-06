@@ -17,7 +17,7 @@ title: Group Members
         style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
       >
     </td>   
-    <td style="vertical-align: middle;">
+    <td style="vertical-align: top;">
     	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
