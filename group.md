@@ -76,17 +76,34 @@ title: Group Members
 <p style="text-align:center;"><h2>Alumni</h2></p>
 
 
-<p style="text-align:center;"><h2>PhD Students</h2></p>
-**Caleb Ju**
-<img src="/images/headshot_caleb.jpeg" alt="drawing" width="160"/>
-* Caleb is **currently on the Academic job market!**
-* Supervisor: George Lan
-* Research area: Energy applications of reinforcement learning
-* Publications: [HICSS '25](files/hicss_25.pdf)
-* [Personal website](https://jucaleb4.github.io) 
+**PhD Students**
+<table style="width: 100%;">
+       <tr>
+    <td style="width: 180px; vertical-align: top;">
+      <img
+        src="/images/headshot_caleb.jpeg"
+        alt="Caleb Ju"
+        width="160"
+        height="160"
+        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+      >
+    </td>   
+    <td>
+    	<b>Caleb Ju</b> <br>
+    	Caleb collaborated with me during his PhD (supervised by George Lan). He investigated the potential of reinforcement learning for control of grid connected energy storage (<a href="files/hicss_25.pdf">HICSS25</a>). He is now an Assistant Professor at the University of Tennessee Knoxville, check out his personal website <a href="https://jucaleb4.github.io">here</a>. 
+    </td>
+  </tr> 
+</table>
 
-<p style="text-align:center;"><h2>Current MS Students</h2></p>
-**Claas-Christoph Heitzhausen**
-* Visiting student from Karlsruhe Institute of Technology
-* Start date: Fall 2025
-* Research area: Reinforcement learning for management of V2G charging
+**MS Sudents**
+
+<table style="width: 100%;">
+       <tr>
+    <td style="width: 180px; vertical-align: top;">
+    </td>   
+    <td>
+    	<b>Claas-Christoph Heitzhausen</b> <br>
+    	I hosted Claas for Fall 2025 and Spring 2026 as part of his MS in Operations Research at Karlsruhe Institute of Technology. His thesis investigated the use of reinforcement learning for controlling bi-directional charging of residential electric vehicles. 
+    </td>
+  </tr> 
+</table>
