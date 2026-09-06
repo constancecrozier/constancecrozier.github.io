@@ -52,6 +52,23 @@ title: Group Members
     	Yiru is a PhD student in the Industrial Engineering program. Her research focuses on control of GPU-heavy data centers, with the objective of providing grid flexibility(<a href="https://arxiv.org/pdf/2603.27831">HICSS27</a>). She also worked with me during her Masters, where she investigated the role of battery swapping in heavy goods freight electrification(<a href="files/naps_252.pdf">NAPS25</a>). 
     </td>
   </tr> 
+  
+  
+       <tr>
+    <td style="width: 180px; vertical-align: top;">
+      <img
+        src="/images/headshot_catherine.jpeg"
+        alt="Catherine Wang"
+        width="160"
+        height="160"
+        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+      >
+    </td>   
+    <td>
+    	<b>Catherine Wang</b> <br><br>
+    	Catherine is a PhD student in the Industrial Engineering program. Her research focuses on flexibility from heat pumps during extreme weather events (<a href="files/NAPS26.pdf">NAPS26</a>). She is also currently working with the Georgia Public Service Commission investigating the potential of electrified school buses for energy arbitrage. 
+    </td>
+  </tr> 
 </table>
 
 
