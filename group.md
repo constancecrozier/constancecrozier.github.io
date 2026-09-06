@@ -12,13 +12,7 @@ title: Group Members
       <img src="/images/headshot_rina.jpeg" alt="Rina Davila Severiano" width="160">
     </td>
     <td>
-    	Test text here
-      <ul>
-        <li>Start date: Fall 2023</li>
-        <li>Research area: Electrified freight transportation</li>
-        <li>Publications: <a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint1</a></li> , <a href="files/Electric_HGV.pdf">Preprint2</a></li>
-        <li>Presentations: NAPS '24, IISE '25, PESGM '25, INFORMS '25, PowerUp '26</li>
-      </ul>
+    	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
 </table>
