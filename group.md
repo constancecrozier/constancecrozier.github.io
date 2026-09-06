@@ -18,7 +18,7 @@ title: Group Members
       >
     </td>   
     <td style="vertical-align: top;">
-    	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
+    	Rina is a PhD candidate in the Industrial Engineering program. Her research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
 </table>
