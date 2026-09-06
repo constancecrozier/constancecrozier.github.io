@@ -57,7 +57,7 @@ title: Group Members
        <tr>
     <td style="width: 180px; vertical-align: top;">
       <img
-        src="/images/headshot_catherine.jpeg"
+        src="/images/headshot_catherine.png"
         alt="Catherine Wang"
         width="160"
         height="160"
