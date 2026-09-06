@@ -5,7 +5,7 @@ title: Group Members
 
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
-**Rina Davila Severiano**   Fall 2023 - present
+**Rina Davila Severiano**   
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 180px; vertical-align: top;">
@@ -18,6 +18,7 @@ title: Group Members
       >
     </td>   
     <td>
+    	<i>Expected Graduating: Fall 2027</i><br><br>
     	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
