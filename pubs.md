@@ -8,9 +8,11 @@ permalink: /pubs/
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2rfuFzwAAAAJ). 
 
 *pre-print articles under review*
-* **Y. Ji**, **C. Crozier**, M. Liska, [Quantifying and attributing power flexibility from GPU-heavy data centers](https://arxiv.org/pdf/2603.27831)
+* **R. Davila**, **Y. Ji**, **C. Crozier**, [Operational and Economic Drivers of Long-Haul Freight Electrification](/files/Electric_HGV.pdf)
 * **R. Davila**, **C.Crozier**, M. O'Malley, [On the potential of electrified supply chains to provide long duration demand flexibility](https://arxiv.org/pdf/2505.05982)
 
+**2027**
+* **Y. Ji**, **C. Crozier**, M. Liska, [Quantifying and attributing power flexibility from GPU-heavy data centers](https://arxiv.org/pdf/2603.27831), *Hawaii International Conference on System Sciences* 
 
 **2026**
 * **C. Wang**, **C. Crozier**, Priyadarshan, K. Kircher [Aggregate modeling of system-level thermal demand flexibility](files/NAPS26.pdf), *IEEE North American Power Systems Conference*
