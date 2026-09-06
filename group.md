@@ -66,7 +66,10 @@ title: Group Members
 * Research area: Dispatchable grid-scale flexibility 
 * Presentations: IISE '25, INFORMS '25
 
-<p style="text-align:center;"><h2>Collaborating PhD Students</h2></p>
+<p style="text-align:center;"><h2>Alumni</h2></p>
+
+
+<p style="text-align:center;"><h2>PhD Students</h2></p>
 **Caleb Ju**
 <img src="/images/headshot_caleb.jpeg" alt="drawing" width="160"/>
 * Caleb is **currently on the Academic job market!**
