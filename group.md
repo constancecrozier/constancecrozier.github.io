@@ -5,18 +5,15 @@ title: Group Members
 
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
-**Rina Davila Severiano**   
 <table style="width: 100%;">
   <tr>
-    <td style="width: 180px; vertical-align: middle !important;">
-      <img
-        src="/images/headshot_rina.jpeg"
-        alt="Rina Davila Severiano"
-        width="160"
-        height="160"
-        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
-      >
-    </td>   
+<td style="width: 180px; height: 180px; padding: 0;">
+  <img
+    src="/images/headshot_rina.jpeg"
+    alt="Rina Davila Severiano"
+    style="display: block; width: 100%; height: 100%; object-fit: cover;"
+  >
+</td> 
     <td style="vertical-align: top;">
     	<b>Rina Davila Severiano</b><br>
     	Rina is a PhD candidate in the Industrial Engineering program. Her research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
