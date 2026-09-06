@@ -6,7 +6,7 @@ title: Group Members
 <p style="text-align:center;"><h2>Current PhD Students</h2></p>
 
 **Rina Davila Severiano**   
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%;">
   <tr>
     <td style="width: 180px; vertical-align: middle !important;">
       <img
