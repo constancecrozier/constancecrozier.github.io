@@ -22,27 +22,29 @@ title: Group Members
     	Rina is a PhD candidate in the Industrial Engineering program. Her research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
-</table>
-
-
-
-**Xiangxin An** *(Co-advised with Santanu Dey)*
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
+   <tr>
     <td style="width: 180px; vertical-align: top;">
       <img
-        src="/images/headshot_rina.jpeg"
-        alt="Rina Davila Severiano"
+        src="/images/headshot_xiangxin.jpeg"
+        alt="Xiangxin An"
         width="160"
         height="160"
         style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
       >
     </td>   
     <td>
-    	<i>Start date: Fall 2024</i><br><br>
-    	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
+    	<b>Xiangxin An</b> <i>(Co-advised with Santanu Dey)</i><br>
+    	Description
     </td>
-  </tr>
+  </tr> 
+  
+</table>
+
+
+
+**Xiangxin An** *(Co-advised with Santanu Dey)*
+<table style="width: 100%; table-layout: fixed;">
+
 </table>
 
 
