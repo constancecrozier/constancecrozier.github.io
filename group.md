@@ -8,7 +8,7 @@ title: Group Members
 **Rina Davila Severiano**   
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 180px; vertical-align: middle;">
+    <td style="width: 180px; vertical-align: middle !important;">
       <img
         src="/images/headshot_rina.jpeg"
         alt="Rina Davila Severiano"
