@@ -8,6 +8,27 @@ title: Group Members
 **Rina Davila Severiano**   
 <table style="width: 100%; table-layout: fixed;">
   <tr>
+    <td style="width: 180px; vertical-align: middle;">
+      <img
+        src="/images/headshot_rina.jpeg"
+        alt="Rina Davila Severiano"
+        width="160"
+        height="160"
+        style="width: 160px; height: 160px; max-width: none; object-fit: cover;"
+      >
+    </td>   
+    <td style="vertical-align: middle;">
+    	<i>Start date: Fall 2023</i><br><br>
+    	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
+    </td>
+  </tr>
+</table>
+
+
+
+**Xiangxin An** *(Co-advised with Santanu Dey)*
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
     <td style="width: 180px; vertical-align: top;">
       <img
         src="/images/headshot_rina.jpeg"
@@ -18,20 +39,13 @@ title: Group Members
       >
     </td>   
     <td>
-    	<i>Expected Graduating: Fall 2027</i><br><br>
+    	<i>Start date: Fall 2024</i><br><br>
     	Rina's research investigates the economics of electric long haul freight operations (<a href="files/Electric_HGV.pdf">Preprint 1</a>), and whether fully electrified supply chains can provide long duration demand flexibility. (<a href="files/naps_24.pdf">NAPS '24</a>, <a href="https://arxiv.org/pdf/2505.05982">Preprint2</a>).
     </td>
   </tr>
 </table>
 
 
-<img src="/images/headshot_rina.jpeg" alt="drawing" width="160"/>
-* Start date: Fall 2023
-* Research area: Electrified freight transportation
-* Publications: [NAPS '24](files/naps_24.pdf), [Preprint](https://arxiv.org/pdf/2505.05982)
-* Presentations: NAPS '24, IISE '25, PESGM '25, INFORMS '25
-
-**Xiangxin An** *(Co-advised with Santanu Dey)*
 <img src="/images/headshot_xiangxin.jpeg" alt="drawing" width="160"/>
 * Co-supervisor: Santanu Dey
 * Start date: Fall 2024
