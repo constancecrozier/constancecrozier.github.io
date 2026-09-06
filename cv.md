@@ -25,6 +25,7 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 
 <h2> Teaching </h2>
 * **ISYE 4501** Energy, Efficiency, and Sustainability
+	* Fall 2026
 	* Spring 2025
 	* Spring 2024
 * **ISYE 6669** Deterministic Optimization
